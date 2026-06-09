@@ -21,6 +21,7 @@ Total Credits: 11
 CGPA: 9.09
 
 Generated on: DD/MM/YYYY
+
 AUTHOR
 Maheshwari
 
